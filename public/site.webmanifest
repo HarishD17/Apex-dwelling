@@ -1,0 +1,16 @@
+{
+  "name": "APEX DWELLING",
+  "short_name": "APEX",
+  "description": "Refined interior design studio for residential and commercial spaces.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#f4efe6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
